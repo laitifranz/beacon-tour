@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  StimateTour
+
+  Created by Francesco Laiti on 26/12/17.
+  Copyright © 2017 francescolaiti. All rights reserved.
+*/
+"bluetooth_error" = "Errore Bluetooth";
+
+"bt_error_desc" = "Bluetooth non accessibile";
+
+"active_bt" = "Abilita Bluetooth";
+
+"active_bt_desc" = "Il Bluetooth non è accessibile, attivalo manualmente dalle Impostazioni o attivalo direttamente dal centro di controllo. Se è necessario, spegni e riaccendi il Bluetooth.";
+
+"loc_alw" = "Localizzazione su Sempre";
+
+"loc_alw_desc" = "La localizzazione non è accessibile, attivare manualmente dalle Impostazioni e selezionare Sempre ";
+
+"reindirizzamento" = "Reindirizzamento verso il web! Scegli il sito che desideri visitare:";
+
+"web" = "Sito web";
+
+"cancella" = "Cancella";
+
+"open_set" = "Apri Impostazioni";
+
+"loc_whenInUse" = "La posizione è impostata su 'Mentre usi l'app', seleziona 'Sempre' dalle Impostazioni";
+
+"loc_Restricted" = "La localizzazione non è accessibile, attivala manualmente da Impostazioni (Impostazioni> Privacy> Localizzazione> Stimate Tour) e attiva la voce 'Sempre'";
+
+"loc_off" = "La localizzazione è necessaria per far funzionare l'app, attivala dalle impostazioni. Attualmente non è attiva";
+
+"loc_off_desc" = "Vai su Impostazioni> Privacy> Localizzazione> Tour Stimate e attivalo";
+
+"info" = "Info/crediti";
+
+"info_desc" = "App ufficiale di Scuole Alle Stimate per ottenere rapidamente informazioni su luoghi e oggetti che caratterizzano questa scuola. Si ringrazia AGSM e JoinTag per il supporto. \n \n Creata da \n Francesco Laiti, studente 5SSA / 2018 \n \nMail personale: \nl.francesco175@gmail.com";
+
+"close" = "Chiudi";
+
+
+//SecondViewController
+"info_button" = "INFORMAZIONI";
+
+"beacon_find" = "Cerco iBeacon";
+
+"vicino" = "Avvicinati";
+
+"trovato" = "Rilevato";
+
+"place" = "luogo";
+
+
+//variabili
+
+"chiostro" = "Chiostro";
+"atrio_colonne" = "Atrio colonne";
+"marani" = "Marani";
+"antica_cucina" = "Antica cucina";
+"sala_Benciolini" = "Sala Benciolini";
+"bandiere" = "Bandiere";
+"sala_degli_Archi" = "Sala degli Archi";
+"sala_Santi" = "Sala Santi";
+"ingresso_ufficiale" = "Ingresso ufficiale";
+"oratorio" = "Oratorio";
+"chiesa_Stimate" =  "Chiesa Stimate";
+
+"chiostro1" = "Dal chiostro si apprezza la facciata del Convento delle Stimate, co-struito da don Gaspare Bertoni tra il 1824 e il 1830 (fu visto anche don Gaspare a spingere la carriola per aiutare i muratori). Notare il rialzo centrale per fare spazio alle due sale biblioteca (che vedremo). Sulla destra invece abbiamo l’edificio nuovo, sede della comunità attuale, che sostituisce un’ala aggiunta all’inizio del ‘900, con varie sovrapposi-zioni negli anni, e demolizione completa nel 2007. Nel giardino vedere la statua in marmo di Carrara raffigurante Gesù Buon Pastore, opera di Ugo Zannoni. Sulle pareti del chiostro ci sono dei pannelli con im-magini delle Stimate a inizio ‘800 e poi fino alla I° guerra mondiale. Notare la presenza della Chiesa del convento delle Terese (dove at-tualmente c’è il Teatro), chiesa diventata, nel 1908, Santuario dedicato alla Madonna di Lourdes, distrutto dalla II° guerra mondiale (6 aprile 1945), e ricostruito sul Colle S. Leonardo, consacrato nel 1964. Vedere foto del bombardamento e la statua della Madonna tra le macerie, ma intatta. Vedere alcune foto ricordo delle attività del Patronato Scola-stico dei primi anni del ‘900 (teatro, scuola di meccanica, elettronica, tipografia, arte plastica, automobilismo (I° scuola guida per automobili in Verona), disegno, lingue, capimastri… L’edificio della scuola si innal-za a tre piani dopo la I^ guerra mondiale; dopo la distruzione del 1945 viene rifatto e portato a 4 piani. Al posto della chiesa Santuario Ma-donna di Lourdes viene collocato il teatro, con sopra l’aula magna, e sopra ancora le camerate del collegio, successivamente trasformate in aule. Nel 1982 viene rifatta la palestra, e nell’86-87 l’ala centrale (ora medie e primaria). Alcune immagini recenti fanno vedere il complesso delle Stimate ripreso dall’elicottero. Un pannello ricorda l’evento della canonizzazione di san Gaspare Bertoni nel 1989. Un’immagine “ardita” è quella che presenta tutta la Scuola Stimate che posa per la foto ri-cordo sotto la statua della Madonna nel cortile interno, nel 1941-42. Dal chiostro passiamo al cortile rialzato di fronte al con-vento.";
+
+"atrio_colonne1" = "Attraverso l’ingresso centrale entriamo nell’atrio delle colonne (sopra ci sono le biblioteche). Notare i lastroni di pietra di Prun, originali dalla costruzione. Originali anche i travi in legno, presenti in tutto il convento. Ci sono due bozzetti in gesso, dello Zannoni, uno della statua che si trova in giardino. C’è una statua in mar-mo di S. Luigi Gonzaga, e un busto in marmo, autori-tratto di Ugo Zannoni. Al centro della parete di sinistra una tela raffigurante i Santi Sposi Maria e Giuseppe, patroni degli Stimmatini, che viene dalla Cappella del Seminario stimmatino che si trovava adiacente alla chiesa della SS. Trinità, distrutto dalla guerra); sulla pa-rete destra una copia del quadro raffigurante san Ga-spare in gloria, esposto in piazza S. Pietro per la Beati-ficazione (1975) e la Canonizzazione (1989), opera del-lo Stimmatino P. Bruno Facciotti, di S. Floriano VR.";
+
+"marani1" = "La seconda sala a sinistra è la sala Marani, (primo compagno e successore di d. Gaspare): è la mensa del-la comunità al tempo della prima comunità. Notare la pietra retrostante il camino, per scaldare la stanza (di là c’è il camino!), e la finestrella per passare le vivande. Ai pasti, in tutto o in parte, si faceva silenzio e si ascol-tava la lettura delle vite dei santi o di altri libri, dal piccolo pulpito dove sedeva il lettore di turno. Questi tavoli sono stati usati dalle comunità fino ad anni re-centi. Ai lati alcune vetrine con ricordi e immagini.";
+
+"antica_cucina1" = "Nella sala dietro abbiamo l’antica cucina (sala Fr. Paolo Zanoli, fratello, entrato anche lui il 4 nov. 1816 con d. Gaspare). Il camino è rifatto, ma il secchiaio e la pietra che sta sotto per raccogliere l’acqua sono originali. Un foro convogliava l’acqua in due cisterne a volta sotto-stanti, che poi facevano confluire le acque nel pozzo (che si trova sotto il campanile, ancora con l’acqua; tutta l’acqua proveniente dai tetti veniva riversata nel pozzo attraverso canalette sotterranee). Le stoviglie e arnesi vari provengono dalla cucina tenuta dalle suore dal 1921 al 2001. Questi due ambienti del Convento delle Stimate costruito da don Gaspare ci ricordano i valori della semplicità, della sobrietà, della fraternità, della perfetta comunione dei beni.";
+
+"sala_Benciolini1" = "Adiacente alla Marani abbiamo la sala Benciolini (uno dei fedeli compagni di d. Gaspare), ora allestita a Gip-soteca: vi sono raccolti un certo numero di bozzetti in gesso di altrettante opere dello Zannoni (quello che ha scolpito la statua di Dante in Piazza dei Signori, e la Madonna di Lourdes per il Santuario, e tante altre opere: di molte abbiamo i gessi). Era amico degli Stimmatini, ha realizzato varie statue per il Santuario di Nostra Signora di Lourdes in P.za Cittadella, e inse-gnava arte plastica nella scuola del Patronato delle Stimate all’inizio del 1900). I bozzetti esposti sono stati poi realizzati in marmo, collocati specie a Verona e a Milano. Spesso sono per monumenti funebri o statue di santi, come si vede nell’esposizione, ma anche sog-getti vari per ville o piazze, specie busti o statue intere di personaggi. Notare la cura dei particolari e la pa-dronanza della materia, sia il gesso che il marmo.";
+
+"bandiere1" = "Si torna nell’atrio e di fronte a sinistra abbiamo la sala bandiere (a ricordare l’internazionalità dell’Istituto: sono le bandiere degli stati in cui gli Stimmatini sono presenti), e la sala Santi Sposi a destra con pittura su tavola di Maria e Giuseppe sposi, un s. Gaspare e S. Fe-lice da Cantalice (primo santo cappuccino, co-patrono di Rieti, dove il trittico era inizialmente). Queste due sale erano aule della scuola di don Gaspare, insieme con le altre tre sale che occupavano l’ala nord, attual-mente Sala Santi.";
+
+"sala_degli_Archi1" = "Si passa nell’atrio degli archi che immetteva alle aule scolastiche, (e da dove parte la scala che porta alle stanze del convento). ";
+
+"sala_Santi1" = "Da qui si entra nella Sala Santi, così chiamata perché raccoglie le Positio dei Santi veronesi –vedi angolo a si-nistra- (e di tanti altri santi, che sono collocate sul lato destro della libreria). Questa sala occupa due aule del tempo del Bertoni (si noti: porta e due finestre al lato sud, finestra molto alta al lato nord; di là c’era il con-vento delle Terese, dove stava la Naudet con le Sorelle della Sacra Famiglia, che facevano scuola per le ragaz-ze). La sala raccoglie testi sulla spiritualità del ‘700 e dell’800, periodo corrispondente alla vita di d. Gaspare (1777-1853). Sono i libri su cui ha lavorato P. Nello Dal-le Vedove (foto alle spalle del tavolo della presidenza), nostro storico e Postulatore delle Cause dei Santi, a cominciare dal Bertoni, ma poi inevitabilmente, alme-no in parte, degli altri Santi veronesi, tutti collegati in-sieme a formare quasi un grappolo di santità. La libre-ria a due piani con soppalco richiama lo stile delle an-tiche biblioteche e dà lustro alla sala, insieme con i due armadi del ‘700 già presenti alle Stimate. Anche il pavimento è stato voluto “in stile”. Di fronte alle due finestre alte abbellite dalle vetrate di ArtePoli, due bozzetti in gesso dello Zannoni (la statua di S. Giusep-pe realizzata in marmo si trova al Santuario della Ma-donna della Corona). La presenza di alcuni religiosi e religiose di vari Istituti nati al tempo di don Gaspare e a lui variamente collegati, ci ricorda la bella comunione che esisteva, la collaborazione, il sostegno e la stima reciproca. E’ un’occasione per conoscere e apprezzare la ricchezza dei carismi sorti nella chiesa di Verona.";
+
+"ingresso_ufficiale1" = "Dalla Sala Santi si passa all’antico ingresso ufficiale delle Stimate (all’ester-no, sopra la porta, un’opera dello Zannoni con cimasa in pie-tra e busto in bronzo di d. Gaspare). Prima di entrare, sulla sinistra, un ritratto di Mons. Carlo De Ferrari (da giovane vescovo di Carpi, poi passato Vescovo di Trento, dove fu il primo ad approvare e sostenere l’Opera dei Focolari di Chiara Lubich nei suoi inizi e presso la Santa Sede). Nella sala, subito a de-stra: un’antica statua in pietra galina della Madonna in trono, col Bambino, opera del Maestro di S. Anastasia, del ‘300. Prima: altra Madonna con Bambino, proveniente da Praga (che si vede sullo sfon-do) dove lo stimmatino P. Luigi Bragato era confessore dell’imperatrice d’Austria. La campana fu donata a d. Gaspare dal suo padre spirituale d. Nicola Galvani nel 1821 (morì nel ’23) in vista del futuro campanile (che fu inaugurato nel 1832. Ci fu l’inconveniente che le cam-pane avevano la stessa tonalità di quelle della parrocchia della SS. Trinità, e la gente non poteva distinguerle. Allora d. Gaspare le fece scendere e rifondere in tonalità di-versa. Ma non tutte: quella del Galvani fu portata a S. Maria del Giglio, vicino a Santo Stefano; in seguito lì vennero le Orsoline e da loro la campana venne “restituita” alle Stimate).  Ancora sulla parete “San Francesco che riceve le stimmate”, bozzetto della grande pala di Antonio Balestra che stava all’altare maggiore della chiesa delle Stimate (rubata dai soldati di Napoleone, ma poi tornata a Verona e mai restituita alla chiesa originale, nonostante le richieste insistenti del Bertoni. E’ passata la Museo di Castelvecchio e ora si trova in prestito al Convento di S. Bernardino). Un secondo quadro simile, del Balestra, l’Annunciazione: bozzetto della pala da altare che si trova nella chiesa degli Scalzi in Verona. Un terzo quadro rappresenta l’Immacolata (di Giorgio Anselmi, 1700; notare che Maria regge il Bambino, ed è Lui che con la freccia punta verso il serpente). Al centro della parete un crocifisso del ‘700. E sotto una copia (antica) di un quadro del Moroni (l’originale si trova in S. Anastasia) che rappresenta S. Paolo con la spada simbolo della predicazione, a cui i fedeli prestano ascolto (il simbolo del cuore offerto). Sul lato sinistro S. Dionigi: il Bertoni si chiamava Gaspare Luigi Dionigi, e voleva che i suoi fossero esperti nel predicare. Sulla parete di fronte una pala da altare raffigurante san Zeno e san Pietro da Verona (primo martire domenicano, ucciso dagli eretici per la sua forte predicazione. A lui è dedicata la chiesa di S. Anastasia in Verona), opera di Ruggero Loredan, fine ‘500. A sinistra una Annunciazione, di autore incerto, e da restaurare. Sotto la finestra di sinistra, Ritratto di s. Gaspare, di Angelo Recchia (quadro ufficiale del santo, voluto dal suo successore P. Marani); nell’angolo un facsimile della grossa bomba della 2° guerra mondiale che sfondò il tetto della chiesa delle Stimate, andando a piantarsi davanti all’ambone attuale, ma senza scoppiare.";
+
+"oratorio1" = "Si passa nell’Oratorio. Costruito anche questo, in-sieme alla chiesa delle Stimate, dalla Confraternita del-le Stimmate di S. Francesco nella prima metà del 1600. L’oratorio serviva per la catechesi e le preghiere devo-zionali. Quando d. Gaspare venne qui il 4 novembre 1816, tutto era in abbandono, ma si diede subito a re-staurare l’Oratorio, che servì da chiesa fino all’ottobre 1822, quando fu riaperta al culto la chiesa. Già nel 1817 qui riprese vita l’Oratorio Mariano sullo stile di quello di S. Paolo in Campo Marzio, e fu l’esempio di tutto gli oratori della diocesi. L’altare barocco, detto anche “dei putti” era dedicato all’Immacolata Conce-zione (quadro dell’Amigazzi). Le tre vetrine laterali con-tengono alcuni oggetti della Chiesa che testimoniano la cura che don Gaspare aveva per le cose del culto: al-cuni candelieri in legno dorato, le carte-gloria, un reli-quiario; turibolo e navicella argentati, bugia portacan-dela e mano indicatrice, ostensorio, calici e arredi vari. Sopra un quadro con Gesù Bambino e S. Giovannino (di Karl Blaas), la Cattura di Gesù nell’orto (scuola Giol-fino). Sulla parete di fondo in alto un busto in marmo del Bertoni, opera di Zannoni. Nella vetrina di sinistra un dipinto su tavola di Domenico Brusasorzi (metà 1500) rappresentante la famiglia Serego Alighieri. (Gi-nevra Alighieri è diretta discendente di Dante: sposan-do un Serego pose la condizione che venisse conserva-to il cognome Alighieri, come resta tutt’oggi). Nella ve-trina di destra una scultura bassorilievo in legno di Ma-donna con Bambino, del 1400, pare di scuola del Giolfi-no. Il restauro ha messo in luce i resti di doratura del manto, e fermato l’opera distruttiva del tarlo. Sopra il passaggio alla chiesa un quadro di S. Luigi Gonzaga di A. Cavaggioni (1700).";
+
+"chiesa_Stimate1" =  "La Chiesa delle Stimate: chiesa della Confraternita delle stimmate di S. Francesco, inaugurata nel 1624, requisita da Napoleone e usata come deposito. Qui venne il 4 novembre 1816 don Gaspare (39 anni) con due compagni, don Marani (26 anni) e Paolo Zanoli (23 anni), e via via da altri. Il 13 novembre iniziò ufficial-mente la scuola nel retro chiesa (coro e locali adiacen-ti). Don Gaspare restaurò completamente la chiesa, in stile neoclassico, rifece l’altare maggiore (era stato ru-bata la grande pala da altare del Balestra raffigurante S. Francesco che riceve le stimmate (il bozzetto è all’ingresso del convento) e vi collocò la pala con lo Sposalizio di Maria e Giuseppe, di autore ignoto, fatta venire da Genova. Conservò i 4 altari laterali di stile barocco. Del ‘600-700 sono il Crocifisso ligneo a destra, e il grande quadro al secondo altare di sinistra con S. Caterina martire (di Alessandria d’Egitto) che riceve l’anello nuziale dal Bambino Gesù presentato dalla S. Famiglia, opera di Andrea Voltolini (tema della spiritualità sponsale, cara al Bertoni. La donatrice del terreno della chiesa si chiamava Caterina Cipolla). Al primo altare di sinistra abbiamo l’Addolorata (in pietra dipinta, opera di Grazioso Spaz-zi, 1881). Al secondo altare di destra grande tela con S. Francesco che riceve le stimmate, opera di Giuseppe Zannoni, cugino dello scultore Ugo, 1894. In occasione della Beatificazione di don Gaspare (1 novembre 1975; canonizzazione il 1 novembre 1989) il suo corpo (con maschera d’argento su volto, mani e piedi, venne po-sto in urna di vetro sotto l’altare del Crocifisso, perché lì egli si faceva portare il venerdì per la preghiera e la predica sulla Passione del Signore. Accanto una tela re-cente (1994) del friulano Luigi Martinis con il Bertoni, fondatore degli Oratori, insieme ai ragazzi; e di fronte, dello stesso autore, don Gaspare che riceve l’ispirazione a fondare il suo Istituto (1997). I tondi della Via Crucis sono di Carlo Donati, ex oratoriano (1902). L’attuale decorazione è di Federico Dal Forno. (ai lati del presbitèro due pregevoli quadri del 500/600 raffi-guranti il martirio di S. Stefano e Gesù che perdona l’adultera, provenienti da donazione). Al centro della chiesa rimase sepolto d. Gaspare fino a fine ‘800, poi portato nell’Oratorio e infine sotto l’altare del Crocifis-so. Lì ci sono invece le cassettine con i resti dei primi padri, fino al 1940 circa. Nel corridoio di sinistra x pas-sare nel Coro è collocata la grande pietra che stava al centro della chiesa a chiudere la prima tomba del Ber-toni, con iscrizione in latino.";

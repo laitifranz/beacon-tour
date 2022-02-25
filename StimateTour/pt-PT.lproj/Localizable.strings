@@ -1,0 +1,93 @@
+/* 
+  Localizable.strings
+  StimateTour
+
+  Created by Francesco Laiti on 26/12/17.
+  Copyright © 2017 francescolaiti. All rights reserved.
+*/
+
+//ViewController da tradurre in inglese
+bluetooth_error = "Erro Bluetooth";
+
+bt_error_desc = "Bluetooth não é acessível";
+
+active_bt = "Ativar Bluetooth";
+
+active_bt_desc = "O Bluetooth não está acessível, ative-o manualmente das Configurações ou ative diretamente do centro de controle. Se necessário, desligue o Bluetooth e ligue-o novamente.";
+
+loc_alw = "Localização Sempre";
+
+loc_alw_desc = "A localização não está acessível, ative-o manualmente nas Configurações e selecione Sempre.";
+
+reindirizzamento = "Redirecionando para a web! Escolha qual site você deseja visitar:";
+
+web = "Web Site";
+
+cancella = "Cancelar";
+
+open_set = "Abrir configurações";
+
+loc_whenInUse = "A localização é definida como 'Ao usar o aplicativo', selecione o item 'Sempre' nas Configurações";
+
+loc_Restricted = "A localização não é acessível, ative-o manualmente de Configurações (Configurações> Privacidade> Localização> Tour Stimate) e ative o item 'Sempre'";
+
+loc_off = "Localização necessária para aproveitar o aplicativo. Atualmente não está ativo";
+
+loc_off_desc = "Vá para Configurações> Privacidade> Localização> Tour Stimate e ative-o";
+
+info = "Info / créditos";
+
+info_desc = "Aplicativo oficial da Scuole Alle Stimate para obter informações rápidas sobre lugares e objetos que caracterizam esta escola. Graças à AGSM e JoinTag para o suporte. \n \n Criado por \n Francesco Laiti, 5SSA student / 2018 \n \nMail personale: \nl.francesco175@gmail.com";
+
+close = "Fechar";
+
+//SecondViewController
+info_button = "INFORMAÇÃO";
+
+beacon_find = "Pesquisa iBeacon";
+
+vicino = "Vá perto";
+
+trovato = "Detectou";
+
+place = "lugar";
+
+
+//variabili
+"chiostro" = "Cloister";
+"atrio_colonne" = "Atrium columns";
+"marani" = "Marani";
+"antica_cucina" = "Ancient kitchen";
+"sala_Benciolini" = "Benciolini Room";
+"bandiere" = "Flags";
+"sala_degli_Archi" = "Hall of the Arches";
+"sala_Santi" = "Santi Room";
+"ingresso_ufficiale" = "Official entry";
+"oratorio" = "Oratory";
+"chiesa_Stimate" =  "Stimate Church";
+
+"chiostro1" = "From the cloister the façade of the Convent of the Stimate is appreciated, built by don Gaspare Bertoni between 1824 and 1830 (Don Gaspare was also seen to push the wheelbarrow to help the masons). Note the central rise to make room for the two library rooms (which we will see). On the right, instead, we have the new building, home of the current community, which replaces a wing added at the beginning of the 20th century, with various overlaps over the years, and complete demolition in 2007. In the garden, see the marble statue of Carrara depicting Jesus Good Shepherd, by Ugo Zannoni. On the walls of the cloister there are panels with images of the Stimate at the beginning of the '800 and then up to the First World War. Note the presence of the Church of the Convent of Terese (where there is currently the Theater), a church that became, in 1908, a Sanctuary dedicated to Our Lady of Lourdes, destroyed by the Second World War (6 April 1945), and rebuilt on the Hill S. Leonardo, consecrated in 1964. See photos of the bombing and the statue of the Madonna in the rubble, but intact. See some photos of the activities of the School Patronage of the early 1900s (theater, school of mechanics, electronics, typography, plastic art, motoring (I ° driving school for cars in Verona), drawing, languages, capimastri ... L The school building rises three stories after the First World War, after the destruction of 1945 it was rebuilt and brought to 4 storeys, in place of the church, the Ma-donna Sanctuary of Lourdes, the theater is located, with the Great Hall, and above the dormitories of the college, later transformed into classrooms, in 1982 the gym was rebuilt, and in 86-87 the central wing (now middle and primary) Some recent images show the complex of the Stimmim resumed from the helicopter: a panel recalls the event of the canonization of St Gaspare Bertoni in 1989. A 'daring' image is that which presents the whole Stimate School posing for the photo re-cordo under the statue of the Madonna in the inner courtyard or, in 1941-42. From the cloister we pass to the raised courtyard in front of the wind.";
+
+"atrio_colonne1" = "Through the central entrance we enter the atrium of the columns (above there are the libraries). Notice the Prun stone slabs, original from the construction. The wooden beams, present throughout the convent, are also original. There are two chalk sketches of the Zannoni, one of the statue in the garden. There is a marble statue of S. Luigi Gonzaga, and a marble bust, authors-tract of Ugo Zannoni. At the center of the left wall is a canvas depicting the Saints Sposi Mary and Joseph, patrons of the Stimmatini, who comes from the Chapel of the Seminary Stigmatine which was adjacent to the church of the SS. Trinity, destroyed by war); on the right wall a copy of the painting depicting Saint Ga-spare in glory, exhibited in St. Peter's Square for the Beatification (1975) and the Canonization (1989), by Stimmatino P. Bruno Facciotti, of S Floriano VR.";
+
+"marani1" = "The second room on the left is the Marani hall, (first companion and successor of D. Gaspare): it is the canteen of the community at the time of the first community. Notice the stone behind the fireplace, to heat the room (there is a fireplace!), And the window to pass the food. At meals, in whole or in part, there was silence and the reading of the lives of saints or of other books was heard, from the small pulpit where the reader on duty sat. These tables have been used by communities for up to several years. On the sides some windows with memories and images.";
+
+"antica_cucina1" = "In the back room we have the old kitchen (room Fr. Paolo Zanoli, brother, who also entered Nov. 4, 1816 with D. Gaspare). The fireplace is redone, but the bucket and the stone below to collect the water are original. A hole conveyed the water into two vaulted tanks below, which then flowed the water into the well (which is located under the bell tower, still with water, all the water coming from the roofs was poured into the well through small channels underground). The various dishes and utensils come from the kitchen held by the nuns from 1921 to 2001. These two rooms of the Convento delle Stimate built by Fr Gaspare remind us of the values of simplicity, sobriety, fraternity, perfect communion of goods.";
+
+"sala_Benciolini1" = "Adjacent to the Marani we have the Benciolini hall (one of the faithful companions of D. Gaspare), now set up at Gip-soteca: there are collected a number of sketches in plaster of as many works by Zannoni (the one that carved the statue of Dante in Piazza dei Signori, and the Madonna of Lourdes for the Sanctuary, and many other works: we have many plaster casts). He was a friend of Stimmatini, he made various statues for the Shrine of Our Lady of Lourdes in Piazza Cittadella, and taught plastic art in the school of the Patronage of the Estimates at the beginning of 1900). The sketches on display were then made of marble, placed especially in Verona and Milan. Often they are for funeral monuments or statues of saints, as seen in the exhibition, but also various subjects for villas or squares, especially busts or entire statues of characters. Note the attention to detail and the pa-dronance of the material, both the plaster and the marble.";
+
+"bandiere1" = "We return to the atrium and in front of the left we have the flags room (to remember the internationality of the Institute: they are the flags of the states where the Stimmatini are present), and the Sala Santi Sposi on the right with painting on Maria's table and Giuseppe sposi, a s. Gaspare and S. Fe-lice da Cantalice (first Capuchin saint, co-patron of Rieti, where the triptych was initially). These two halls were halls of Don Gaspare's school, together with the other three rooms that occupied the north wing, currently Sala Santi.";
+
+"sala_degli_Archi1" = "We pass in the atrium of the arches that led to the classrooms, (and from where the staircase leading to the rooms of the convent).";
+
+"sala_Santi1" = "From here we enter the Sala Santi, so called because it collects the Positio dei Santi veronesi -vedi angle a si-nistra- (and many other saints, which are placed on the right side of the bookcase). This room occupies two classrooms of the time of Bertoni (note: door and two windows on the south side, very high window on the north side, there was the convent of the Terese, where was the Naudet with the Sisters of the Holy Family , who were schooling for the kids). The room contains texts on the spirituality of the '700 and' 800, a period corresponding to the life of d. Gaspare (1777-1853). These are the books on which P. Nello Dal-le Vedove worked (photo behind the table of the presidency), our historian and Postulator of the Causes of Saints, beginning with Bertoni, but then inevitably, at least in part, of the others Saints of Verona, all connected together to form almost a bunch of holiness. The two-story library with mezzanine recalls the style of the ancient libraries and gives prestige to the hall, together with the two 18th century wardrobes already present at the Stimate. Even the floor was wanted 'in style'. In front of the two tall windows embellished by the ArtePoli windows, two sketches in plaster by Zannoni (the statue of S. Giusep-pe made of marble is at the Shrine of the Ma-donna della Corona). The presence of some religious men and women of various Institutes born at the time of Don Gaspar and linked to him, reminds us of the beautiful communion that existed, collaboration, mutual support and esteem. It is an opportunity to know and appreciate the richness of the charisms that have arisen in the church of Verona.";
+
+"ingresso_ufficiale1" = "From the Sala Santi we pass to the old official entrance of the Stimate (outside the door, a work by Zannoni with cimasa in bronze and bronze bust of D. Gaspare). Before entering, on the left, a portrait of Mons. Carlo De Ferrari (as a young bishop of Carpi, then passed Bishop of Trento, where he was the first to approve and support the Work of the Focolare of Chiara Lubich in its beginnings and at the Holy See). In the hall, immediately to de-stra: an ancient statue in galina stone of the Madonna enthroned, with the Child, work of the Master of S. Anastasia, of the '300. Before: another Madonna with Child, coming from Prague (which is seen in the background) where the Stigmatine Fr Luigi Bragato was confessor of the Empress of Austria. The bell was donated to d. Gaspare from his spiritual father d. Nicola Galvani in 1821 (died in '23) in view of the future bell tower (which was inaugurated in 1832. There was the inconvenience that the cam-breads were the same shade as those of the parish of the Holy Trinity, and people could not Then Gaspare made them come down and redone in shades of verse, but not all: that of Galvani was brought to S. Maria del Giglio, near Santo Stefano, then there came the Ursulines and from them the bell came 'Returned' to the Stimate). Still on the wall 'Saint Francis receiving the stigmata', sketch of the great altarpiece by Antonio Balestra that stood at the high altar of the Stimate Church (stolen by Napoleon's soldiers, but then returned to Verona and never returned to the original church, despite the Bertoni's insistent requests: the Castelvecchio Museum has passed and is now on loan to the Convent of S. Bernardino). A second similar painting by Balestra, the Annunciation: sketch of the altarpiece found in the Scalzi church in Verona. A third painting represents the Immaculate (by Giorgio Anselmi, 1700; note that Mary holds the Child, and it is He who with the arrow points towards the serpent). In the center of the wall there is a crucifix from the 18th century. And under an (ancient) copy of a painting by Moroni (the original is found in S. Anastasia) representing St. Paul with the sword, symbol of preaching, to which the faithful listen (the symbol of the offered heart). On the left side S. Dionigi: Bertoni was called Gaspare Luigi Dionigi, and he wanted his parents to be experts in preaching. On the opposite wall is an altarpiece depicting Saint Zeno and Saint Peter of Verona (first Dominican martyr, killed by heretics for his strong preaching, dedicated to him is the church of S. Anastasia in Verona), by Ruggero Loredan, late '500. On the left an Annunciation, of uncertain author, and to be restored. Under the left window, Portrait of s. Gaspare, by Angelo Recchia (official painting of the saint, desired by his successor P. Marani); in the corner a facsimile of the big bomb of the 2nd world war that broke through the roof of the church of the Stimate, going to plant itself in front of the current ambone, but without bursting.";
+
+"oratorio1" = "We pass in the Oratory. This was also built, together with the Church of the Stimate, from the Confraternity of the Stigmata of St. Francis in the first half of 1600. The oratory served for catechesis and devotional prayers. When d. Gaspare came here on November 4, 1816, everything was abandoned, but he immediately set about re-establishing the Oratory, which served as a church until October 1822, when the church was reopened to worship. Already in 1817, the Marian Oratory revived here in the style of that of St. Paul in Campo Marzio, and was the example of all the oratories of the diocese. The baroque altar, also known as the 'putti', was dedicated to the Immaculate Conception (picture of the Amigazzi). The three side windows contain some objects of the Church that testify to the care that Don Gaspar had for the things of worship: some gilded wooden candlesticks, the glory-cards, a reliquary; silver thurible and silvered, portacan-dela lie and indicating hand, monstrance, chalices and various furnishings. Above a painting with the Child Jesus and St. John (by Karl Blaas), the capture of Jesus in the garden (Giol-fino school). On the back wall at the top a marble bust of Bertoni, by Zannoni. In the window on the left a painting on a panel by Domenico Brusasorzi (mid 1500) representing the Serego Alighieri family. (Gi-nevra Alighieri is a direct descendant of Dante: by marrying a Serego he laid down the condition that the surname Alighieri be preserved, as it remains today). In the right-hand window a wooden bas-relief sculpture of Ma-donna con Bambino, dating back to the 15th century, seems to belong to the school of Giolfi-no. The restoration highlighted the remains of the gilding of the mantle, and stopped the destructive work of the woodworm. Above the passage to the church a painting by S. Luigi Gonzaga by A. Cavaggioni (1700).";
+
+"chiesa_Stimate1" =  "The Church of the Stimate: Church of the Confraternity of the Stigmata of St. Francis, inaugurated in 1624, requisitioned by Napoleon and used as a deposit. On November 4, 1816 Don Gaspare came here (39 years) with two companions, Don Marani (26) and Paolo Zanoli (23), and gradually others. On November 13, the school officially began in the back church (choir and adjoining rooms). Don Gaspare completely restored the church, in neoclassical style, he rebuilt the high altar (the large altar-piece of the Crossbow depicting St. Francis receiving the stigmata (the sketch is at the entrance of the convent) was ruined and placed there the altarpiece with the Marriage of Mary and Joseph, by an unknown artist, made to come from Genoa.They conserved the 4 side altars of Baroque style.The 600-700s are the wooden Crucifix on the right, and the large painting on the second altar on the left with St. Catherine Martyr (of Alexandria of Egypt) receiving the wedding ring from the Child Jesus presented by the Holy Family, by Andrea Voltolini (theme of spousal spirituality, dear to Bertoni.) The donor of the church's land was called Caterina Cipolla At the first altar on the left we have the Addolorata (in painted stone, by Grazioso Spaz-zi, 1881) At the second altar on the right, large canvas with St. Francis receiving the stigmata, by Giuseppe Zannoni, cousin of or sculptor Ugo, 1894. On the occasion of the beatification of Don Gaspare (1 November 1975; canonization on 1 November 1989) his body (with a silver mask on his face, hands and feet, was placed in a glass urn under the altar of the Crucifix, because he was brought there on Friday for prayer and He preaches about the Passion of the Lord, alongside a recent painting by Friulian Luigi Martinis with Bertoni, founder of the Oratori, together with the boys, and in front of the same author, Don Gaspare, who receives the inspiration to found his Institute (1997) The Via Crucis tondi are by Carlo Donati, former oratorian (1902) The present decoration is by Federico Dal Forno (on the sides of the presbytery two valuable paintings of the 500/600 showing the martyrdom of S Stephen and Jesus who forgives the adulteress, coming from a donation.) At the center of the church, there was buried by D. Gaspare until the end of the 19th century, then taken to the Oratory and finally under the altar of the Crocifis-so. the little boxes with the remains of the first fathers, up to about 1940. In c the left-hand side hall in the choir is placed the large stone that stood in the center of the church to close the first tomb of the Ber-toni, with an inscription in Latin.";
+
+
+
+

@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "You are currently in the area"; ObjectID = "8Rk-a1-ONW"; */
+"8Rk-a1-ONW.text" = "You are currently in the area";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "A1C-fD-T5P"; */
+"A1C-fD-T5P.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Localization"; ObjectID = "BYd-Us-Inb"; */
+"BYd-Us-Inb.normalTitle" = "Localization";
+
+/* Class = "UILabel"; text = "AREA"; ObjectID = "Fle-fS-v3L"; */
+"Fle-fS-v3L.text" = "AREA";
+
+/* Class = "UINavigationItem"; title = "Tour Stimate"; ObjectID = "G8Y-da-ZT5"; */
+"G8Y-da-ZT5.title" = "Tour Stimate";
+
+/* Class = "UINavigationItem"; title = "Area"; ObjectID = "GKt-Yp-fD0"; */
+"GKt-Yp-fD0.title" = "Area";
+
+/* Class = "UIButton"; normalTitle = "INFORMATION"; ObjectID = "HOc-Wi-eXr"; */
+"HOc-Wi-eXr.normalTitle" = "INFORMATION";
+
+/* Class = "UIBarButtonItem"; title = "Indietro"; ObjectID = "OH8-jK-rX1"; */
+"OH8-jK-rX1.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Bluetooth"; ObjectID = "Pjp-SQ-N51"; */
+"Pjp-SQ-N51.normalTitle" = "Bluetooth";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VWi-j2-z4o"; */
+"VWi-j2-z4o.normalTitle" = "Button";
+
+/* Class = "UIButton"; disabledTitle = "Check up"; ObjectID = "f47-Dd-c5y"; */
+"f47-Dd-c5y.disabledTitle" = "Check up";
+
+/* Class = "UIButton"; normalTitle = "START TOUR"; ObjectID = "f47-Dd-c5y"; */
+"f47-Dd-c5y.normalTitle" = "START TOUR";
+
+/* Class = "UISegmentedControl"; gLq-t7-dHI.segmentTitles[0] = "Stop"; ObjectID = "gLq-t7-dHI"; */
+"gLq-t7-dHI.segmentTitles[0]" = "Stop";
+
+/* Class = "UISegmentedControl"; gLq-t7-dHI.segmentTitles[1] = "Start"; ObjectID = "gLq-t7-dHI"; */
+"gLq-t7-dHI.segmentTitles[1]" = "Start";
+
+/* Class = "UILabel"; text = "Area"; ObjectID = "lYA-7g-2QY"; */
+"lYA-7g-2QY.text" = "Area";
+
+/* Class = "UIButton"; normalTitle = "Link web"; ObjectID = "oSg-fF-ygp"; */
+"oSg-fF-ygp.normalTitle" = "Link web";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "pcj-MD-48A"; */
+"pcj-MD-48A.text" = "Welcome";
