@@ -1,6 +1,6 @@
 # Beacon Tour
 
-This individual project aims to guide customers via a smartphone application through the building's corridors to obtain additional information about objects placed in the rooms.
+This individual project aims to guide customers via a smartphone application through the building's corridors to obtain additional information about objects placed in the rooms using [Beacon](https://developer.apple.com/ibeacon/) technology.
 
 It works like an audioguide with some additional features.
 
@@ -11,7 +11,7 @@ Created for [Scuole Alle Stimate](http://www.scuolestimate.it) during my high sc
 <div align="center">
     <img src="StimateTour/Assets.xcassets/AppIcon.appiconset/nuovoLogo-1024.png" alt="Logo" width="80" height="80">
 
-  <h2 align="center">Stimate Tour</h2>
+  <h3 align="center">Stimate Tour</h3>
   <br>
 </div>
 
