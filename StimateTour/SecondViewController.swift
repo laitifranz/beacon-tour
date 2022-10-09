@@ -33,22 +33,12 @@ class SecondViewController: UIViewController, CLLocationManagerDelegate {
         super.viewDidLoad()
         
         locationManager.delegate = self
-//        locationManager.requestAlwaysAuthorization()
         
         attualeZona.text = ""
         info.isEnabled = false
         info.layer.cornerRadius = 8
         
-//        annotazione.coordinate = posizione
-//        annotazione.title = "inizio"
-//        annotazione.subtitle = "Ti trovi in questa zona"
-//        mappa.mapType = .satellite
-//        mappa.addAnnotation(annotazione)
-//        mappa.setRegion(MKCoordinateRegion(center: posizione, span: spanna), animated: true)
-//        print ("regione n:\(codiceRegione)")
-        
         locationManager.stopMonitoring(for: region) //killo ogni tipo di scansione beacon
-//        //        locationManager.startMonitoring(for: region)
         locationManager.startRangingBeacons(in: region) //inizio a scandaglaire per i beacon
     }
     
@@ -115,7 +105,6 @@ class SecondViewController: UIViewController, CLLocationManagerDelegate {
                     annotazione.coordinate = posizione
                     mappa.addAnnotation(annotazione)
                     mappa.setRegion(MKCoordinateRegion(center: posizione, span: spanna), animated: true)
-                    //            print("entrato rilevato")
                 }
                 else {
                     info.isEnabled = false
@@ -136,38 +125,7 @@ class SecondViewController: UIViewController, CLLocationManagerDelegate {
 
     }
     
-//    func locationManager(_ manager: CLLocationManager, didRangeBeacons beacons: [CLBeacon], in region: CLBeaconRegion) {
-//        let knownBeacons = beacons.filter{ $0.proximity == CLProximity.immediate }
-//
-//        if (knownBeacons.count > 0) {
-//            print("Beacon vicino")
-//
-//        }
-//
-//        else if (beacons == []){
-//            print ("Beacon non rilevato")
-//        }
-//
-//        else {
-//            print("Beacon rilevato")
-//        }
-//
-//        print(beacons) //solo per osservare i vari beacon da terminale Xcode
-//
-//    }
     @IBAction func passaggioView(_ sender: Any) {
         locationManager.stopRangingBeacons(in: region)
-//        let generator = UIImpactFeedbackGenerator(style: .light)
-//        generator.impactOccurred()
-    }
-    /*
-    // MARK: - Navigation
 
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destinationViewController.
-        // Pass the selected object to the new view controller.
     }
-    */
-
-}

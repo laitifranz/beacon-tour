@@ -82,16 +82,5 @@ class Info_ViewController: UIViewController {
     override func viewDidDisappear(_ animated: Bool) {
         synth.stopSpeaking(at: .immediate)
     }
-    
-    
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destinationViewController.
-        // Pass the selected object to the new view controller.
-    }
-    */
 
 }

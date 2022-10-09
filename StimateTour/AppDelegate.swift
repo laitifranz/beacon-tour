@@ -67,22 +67,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
 
 }
-
-//extension AppDelegate: CLLocationManagerDelegate { //necessario per monitorare beacon quando app è killata o in background
-//
-//    func locationManager(_ manager: CLLocationManager, didEnterRegion region: CLRegion) {
-//        guard region is CLBeaconRegion else { return }
-//
-//        let notification = UNMutableNotificationContent()
-//        notification.title = "Rilevato iBeacon Stimate!"
-////        notification.subtitle = "\(region)"
-//        notification.body = "Scorri per iniziare il TOUR!"
-//        notification.badge = 1 //app icon
-//        notification.sound = .default()
-//
-//        let request = UNNotificationRequest(identifier: "ForgetMeNot", content: notification, trigger: nil)
-//
-//        UNUserNotificationCenter.current().add(request, withCompletionHandler: nil)
-//    }
-//}
-
